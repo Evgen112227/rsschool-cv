@@ -38,3 +38,13 @@
 
 }
 ```
+
+## Education
+
+- Bachelor degree, graduated from BNTU in 2021, Faculty of Civil Engineering.
+- English speaking courses with native speakers.
+- HTML Academy: in process.
+
+## English level
+
+Upper-intermediate
